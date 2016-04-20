@@ -1,0 +1,16 @@
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\LumixLiveViewDemo.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\LumixLiveViewDemo.Form1.resources
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\LumixLiveViewDemo.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\show_speed\show_speed\bin\Debug\LumixLiveViewDemo.exe.config
+C:\Users\abraxas\Dropbox\show_speed\show_speed\bin\Debug\LumixLiveViewDemo.exe
+C:\Users\abraxas\Dropbox\show_speed\show_speed\bin\Debug\LumixLiveViewDemo.pdb
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\LumixLiveViewDemo.exe
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\LumixLiveViewDemo.pdb
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\bin\Debug\LumixLiveViewDemo.exe.config
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\obj\x86\Debug\LumixLiveViewDemo.exe
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\obj\x86\Debug\LumixLiveViewDemo.pdb
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\bin\Debug\LumixLiveViewDemo.exe
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\bin\Debug\LumixLiveViewDemo.pdb
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\obj\x86\Debug\LumixLiveViewDemo.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\obj\x86\Debug\LumixLiveViewDemo.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\LumixLiveViewDemo\LumixLiveViewDemo\obj\x86\Debug\LumixLiveViewDemo.Viewer.resources

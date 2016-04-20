@@ -1,0 +1,9 @@
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\bin\Debug\show_speed.exe
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\bin\Debug\show_speed.pdb
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\obj\x86\Debug\show_speed.Form1.resources
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\obj\x86\Debug\show_speed.Properties.Resources.resources
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\obj\x86\Debug\show_speed.csproj.GenerateResource.Cache
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\obj\x86\Debug\show_speed.exe
+C:\Users\abraxas\Desktop\iunxtio-master\show_speed\show_speed\obj\x86\Debug\show_speed.pdb
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\show_speed.exe
+C:\Users\abraxas\Dropbox\show_speed\show_speed\obj\x86\Debug\show_speed.pdb
